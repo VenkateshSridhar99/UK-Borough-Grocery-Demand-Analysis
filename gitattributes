@@ -1,0 +1,2 @@
+# Track large binary report files with Git LFS
+*.pbix filter=lfs diff=lfs merge=lfs -text

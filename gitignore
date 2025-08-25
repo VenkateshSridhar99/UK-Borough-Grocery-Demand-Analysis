@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp
+~$*.doc*
+~$*.ppt*
+
+# Power BI autosave/temp
+*.tmp
+*.temp
+
+# Python/Notebooks (in case you add analysis later)
+__pycache__/
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
