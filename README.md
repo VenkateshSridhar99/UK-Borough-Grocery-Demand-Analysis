@@ -1,4 +1,4 @@
-# UK Borough Grocery Demand Analysis
+UK Borough Grocery Demand Analysis
 
 📊 **Full-Cycle Data Analytics Project** using **Excel, SQL, and Power BI**.  
 This project analyses grocery demand patterns across UK boroughs and demonstrates **Descriptive, Diagnostic, Prescriptive, and Predictive** analytics.
@@ -41,15 +41,13 @@ This project analyses grocery demand patterns across UK boroughs and demonstrate
 
 ---
 
-## 🔗 Live Dashboard
-👉 **View the interactive Power BI report:** [Open in Power BI](PASTE_YOUR_PUBLIC_PBI_LINK_HERE)
-
----
-
 ## 📸 Dashboard Preview
-![Overview](PowerBI/Dashboard_Screenshots/overview.png)
 
-> Replace the image filename above with your actual export(s).
+![Title](PowerBI/TitlePg.png)  
+![Descriptive](PowerBI/Descriptive.png)  
+![Tooltip](PowerBI/Tooltip.png)  
+![Nutrient View](PowerBI/NutrientView.png)
+
 
 ---
 
@@ -72,7 +70,7 @@ This project analyses grocery demand patterns across UK boroughs and demonstrate
 
 ## 📑 Reports
 - [📄 Full Report (PDF)](Reports/Project_Report.pdf)  
-- [🎯 Presentation Slides (PDF)](Reports/Presentation_Slides.pdf)
+- [🎯 Presentation Slides] (Google Slides Link)](https://docs.google.com/presentation/d/1BX4ICy.../edit?usp=sharing)
 
 ---
 
