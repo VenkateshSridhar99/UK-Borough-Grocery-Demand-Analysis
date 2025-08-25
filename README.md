@@ -10,7 +10,7 @@ This project analyses grocery demand patterns across UK boroughs and demonstrate
 2. **Descriptive Analysis (Power BI)** – borough-level demand trends, KPIs, and visuals.  
 3. **Diagnostic Analysis (SQL)** – queries to uncover demand drivers and anomalies.  
 4. **Prescriptive Analysis** – insights & recommendations for inventory optimisation.  
-5. **Predictive Analysis (Power BI/Excel)** – forecasting demand trends.  
+5. **Predictive Analysis (PowerBI/Excel)** – forecasting demand trends.  
 6. **Final Deliverables** – dashboard, slides, and written report.
 
 ---
